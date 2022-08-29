@@ -23,6 +23,20 @@ A unknown Front-end Engineer.
 #### :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
+
+```text
+From: 28 April 2021 - To: 28 August 2022
+
+Total Time: 2,100 hrs 46 mins
+
+Vue.js            1,024 hrs 41 mins████████████▒░░░░░░░░░░░░   48.78 %
+TypeScript        397 hrs 33 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+JavaScript        279 hrs 29 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+JSON              136 hrs 16 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+HTML              69 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Rust              44 hrs 25 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
