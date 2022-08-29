@@ -1,4 +1,7 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Hey 👋, fw6 here! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fw6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
