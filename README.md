@@ -1,6 +1,16 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+![Header](github-header-image.png)
 
 ## Hey 👋, fw6 here! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />
+
+
+A unknown Front-end Engineer.
+
+-   :hammer_and_pick: TypeScript / Vue / Rust
+-   :man: Pronouns: he/him
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fw6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
@@ -8,11 +18,6 @@
 ![](https://raw.githubusercontent.com/fw6/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/fw6/github-stats-transparent/output/generated/languages.svg)
 
-
-A unknown Front-end Engineer.
-
--   :hammer_and_pick: TypeScript / Vue / Rust
--   :man: Pronouns: he/him
 
 ---
 
@@ -40,7 +45,7 @@ Rust              44 hrs 25 mins  ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
----
+
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
