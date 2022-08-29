@@ -1,7 +1,5 @@
 ## Hey 👋, fw6 here! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />
 
-![GitHub Snake Light](ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fw6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/fw6/github-stats-transparent/output/generated/overview.svg)
@@ -40,3 +38,6 @@ Rust              44 hrs 25 mins  ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
