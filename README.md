@@ -1,6 +1,6 @@
 ## Hey 👋, fw6 here! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />
 
-![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fw6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
