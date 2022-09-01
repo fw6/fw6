@@ -3,7 +3,7 @@
 ## Hey 👋, fw6 here! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />
 
 
-A unknown Front-end Engineer.
+An unknown Front-end Engineer.
 
 -   :hammer_and_pick: TypeScript / Vue / Rust
 -   :man: Pronouns: he/him
