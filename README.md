@@ -33,10 +33,10 @@ An unknown Front-end Engineer.
 ```text
 From: 28 April 2021 - To: 03 September 2022
 
-Total Time: 2,133 hrs 33 mins
+Total Time: 2,133 hrs 49 mins
 
-Vue.js            1,039 hrs 22 mins████████████▒░░░░░░░░░░░░   48.72 %
-TypeScript        402 hrs 31 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+Vue.js            1,039 hrs 23 mins████████████▒░░░░░░░░░░░░   48.71 %
+TypeScript        402 hrs 31 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
 JavaScript        280 hrs 56 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
 JSON              137 hrs 47 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
 HTML              71 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
