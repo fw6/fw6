@@ -31,7 +31,7 @@ An unknown Front-end Engineer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2021 - To: 11 November 2022
+From: 28 April 2021 - To: 12 November 2022
 
 Total Time: 2,401 hrs 19 mins
 
