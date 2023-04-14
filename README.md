@@ -25,8 +25,11 @@ An unknown Front-end Engineer.
 
 <!-- ![spotify-github-profile](/img/default.svg) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r6wn4hdvypv0lkzyrj0e0pjct&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-#### :bar_chart: Monthly coding time
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=r6wn4hdvypv0lkzyrj0e0pjct&cover_image=true&theme=default&show_offline=true&background_color=9a10ad&interchange=true&bar_color_cover=true)
+
+
+
+### :bar_chart: Monthly coding time 
 
 <!--START_SECTION:waka-->
 
