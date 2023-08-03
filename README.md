@@ -5,7 +5,7 @@
 
 An unknown Front-end Engineer.
 
--   :hammer_and_pick: TypeScript / Vue / Rust
+-   :hammer_and_pick: TypeScript / Vue / Svelte / Rust
 -   :man: Pronouns: he/him
 
 
