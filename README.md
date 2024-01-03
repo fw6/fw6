@@ -34,15 +34,15 @@ An unknown Front-end Engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2021 - To: 01 January 2024
+From: 28 April 2021 - To: 02 January 2024
 
-Total Time: 4,129 hrs 3 mins
+Total Time: 4,137 hrs 18 mins
 
-TypeScript        1,185 hrs 27 mins███████▒░░░░░░░░░░░░░░░░░   28.71 %
-Vue.js            1,148 hrs 45 mins███████░░░░░░░░░░░░░░░░░░   27.82 %
-JavaScript        522 hrs 10 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Svelte            365 hrs 25 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-JSON              298 hrs 14 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+TypeScript        1,187 hrs 1 min ███████▒░░░░░░░░░░░░░░░░░   28.69 %
+Vue.js            1,148 hrs 45 mins███████░░░░░░░░░░░░░░░░░░   27.77 %
+JavaScript        523 hrs 23 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Svelte            365 hrs 25 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+JSON              298 hrs 14 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
 ```
 
 <!--END_SECTION:waka-->
