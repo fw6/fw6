@@ -1,5 +1,7 @@
 ![Header](github-header-image.png)
 
+[![wakatime](https://wakatime.com/badge/user/336c0580-e751-4aac-8ee6-34a2e27ca70e.svg)](https://wakatime.com/@336c0580-e751-4aac-8ee6-34a2e27ca70e)
+
 ## Hey 👋, fw6 here! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />
 
 
@@ -7,7 +9,6 @@ An unknown Front-end Engineer.
 
 -   :hammer_and_pick: TypeScript / Vue / Svelte / Rust
 -   :man: Pronouns: he/him
-
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
