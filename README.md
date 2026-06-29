@@ -35,11 +35,11 @@ An unknown Front-end Engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2021 - To: 27 June 2026
+From: 28 April 2021 - To: 28 June 2026
 
-Total Time: 7,603 hrs 21 mins
+Total Time: 7,603 hrs 25 mins
 
-TypeScript                 3,100 hrs 12 mins     ██████████▒░░░░░░░░░░░░░░   40.77 %
+TypeScript                 3,100 hrs 14 mins     ██████████▒░░░░░░░░░░░░░░   40.77 %
 JavaScript                 1,243 hrs 15 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
 Vue.js                     1,149 hrs 21 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
 JSON                       525 hrs 30 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
